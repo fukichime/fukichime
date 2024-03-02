@@ -8,12 +8,14 @@
 
 <br><br>
 
-<img src="assets/org_20240301_030929.png" height="right" width="180px">
+<img src="assets/org_20240301_030929.png" align="right" width="180px">
 
+<pre>
 - I'm a Computer Engineering graduate from Bahçeşehir University.
 - Currently focused on learning .NET Web API and related technologies.
 - As for my hobbies, I'm an artist in both traditional and digital mediums.
 - Outside of coding, you'll often catch me gaming.
+</pre>
 <br>
  Feel free to reach out through my socials if you share similar interests or have any exciting projects in mind.
 
