@@ -7,14 +7,19 @@
 </div>
 
 <br><br>
+
+<div style="text-align: justify;">
+  <img src="assets/org_20240301_030929.png" alt="Your Image" height="auto" width="50%" style="float: right; margin-left: 20px;">
+</div>
+
 <pre>
--  I'm a Computer Engineering graduate from Bahçşehir University.
+  <img src=
+-  I'm a Computer Engineering graduate from Bahçeşehir University.
 -  Currently focused on learning .NET Web API and related technologies.
 -  As for my hobbies, I'm an artist in both traditional and digital mediums.
 -  Outside of the coding, you'll often catch me immersed in the gaming.
 <br>
 Feel free to reach out through my socials if you share similar interests or have any exciting projects in mind.
-<br>
 </pre>
 
 
