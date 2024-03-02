@@ -14,7 +14,7 @@
 - As for my hobbies, I'm an artist in both traditional and digital mediums.
 - Outside of coding, you'll often catch me gaming.
 </pre>
-<br>
+<br><br><br>
  Feel free to reach out through my socials if you share similar interests or have any exciting projects in mind.
 
 
