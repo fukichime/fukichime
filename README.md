@@ -6,7 +6,7 @@
     <img src="assets/icons8-moon-and-stars-50 (1).png" align="center" width="60px" />
 </div>
 
-<img src="assets/org_20240301_030929.png" align="right" width="320px">
+<img src="assets/org_20240301_030929.png" align="right" width="350px">
 <br>
 <pre>
 - I'm a Computer Engineering graduate from Bahçeşehir University.
