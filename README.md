@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="assets/org_20240301_030929.png" align="right" width="180px">
+<img src="assets/org_20240301_030929.png" align="right" width="300px">
 
 <pre>
 - I'm a Computer Engineering graduate from Bahçeşehir University.
