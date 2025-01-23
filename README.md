@@ -24,8 +24,9 @@
 <br>
 <pre align="center">
 <div align="center">
-<img src="assets/kirby-dance-kirby-victory.gif" align="center" width="180px"> <img src="https://github-readme-stats.vercel.app/api?username=fukichime&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"  />  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fukichime&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=fukichime&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"  />  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fukichime&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 </pre>
+<img src="assets/kirby-dance-kirby-victory.gif" align="center" width="250px"> 
 
 
