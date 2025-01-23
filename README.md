@@ -1,9 +1,5 @@
 <div align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=50&pause=2000&color=8A7FF7&background=6CFF8400&repeat=false&random=false&width=680&height=140&lines=HELLO+HELLO%2C+I'M+ESRA!" alt="Typing SVG" />
-    </a>
-    <br>
-    <img src="assets/icons8-moon-and-stars-50 (1).png" align="center" width="60px" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1200&color=84BEF7&center=true&width=435&lines=hello!+I'm+Esra!!" alt="Typing SVG" /></a>
 </div>
 
 <img src="assets/org_20240301_030929.png" align="right" width="300px">
