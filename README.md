@@ -7,7 +7,7 @@
 <br>
  <pre align="center">
  <div align="center">
-  <img src="assets/rekall.gif" align="right" width="300px">
+  <img src="assets/rekall.gif" align="right" width="400px">
   </div>
 <pre align="center">
  <div align="left">
@@ -16,15 +16,8 @@
 >> Feel free to reach out through my socials if you share similar interests 
    or have any exciting projects in mind. 
 >> <a href="mailto:aygn.esranur@gmail.com"><b>email</b></a>
- </div>
-
-</pre>
-</pre>
-<br>
- 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/esranur-ayg%C3%BCn-22056418b/" target="_blank">
+  <bre>
+     <a href="https://www.linkedin.com/in/esranur-ayg%C3%BCn-22056418b/" target="_blank">
     <img src="assets/download.png" width="60" height="60" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/Katszura" target="_blank">
@@ -33,8 +26,11 @@
  <a href="https://leetcode.com/u/fukichime/" target="_blank">
     <img src="assets/images.png" width="60" height="60" alt="leetcode logo"  />
   </a>
-</div>
+ </div>
 
+</pre>
+</pre>
+<br>
 <br>
 
 <div align="center">
