@@ -10,7 +10,8 @@
  <div align="left">
 >> I'm a Computer Engineering graduate from Bahçeşehir University.
 >> Currently focused on expanding my skillset in software and related technologies.
->> Feel free to reach out through my socials if you share similar interests or have any exciting projects in mind. 
+>> Feel free to reach out through my socials if you share similar interests 
+   or have any exciting projects in mind. 
 >> <a href="mailto:aygn.esranur@gmail.com"><b>email</b></a>
 </div>
  <img src="assets/rekall.gif" align="right" width="300px">
@@ -18,7 +19,7 @@
 <br>
  
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/esranur-ayg%C3%BCn-22056418b/" target="_blank">
     <img src="assets/download.png" width="60" height="60" alt="linkedin logo"  />
   </a>
@@ -30,7 +31,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fukichime&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"  />
@@ -38,4 +39,4 @@
 </div>
 
 <div align="center" width="50">
-<img src="assets/kirby-dance-kirby-victory.giff" align="center" width="600px">
+<img src="assets/kirby-dance-kirby-victory.gif" align="center" width="600px">
