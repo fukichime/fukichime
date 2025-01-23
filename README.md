@@ -13,8 +13,8 @@
 >> Feel free to reach out through my socials if you share similar interests 
    or have any exciting projects in mind. 
 >> <a href="mailto:aygn.esranur@gmail.com"><b>email</b></a>
-</div>
  <img src="assets/rekall.gif" align="right" width="300px">
+  </div>
 </pre>
 <br>
  
