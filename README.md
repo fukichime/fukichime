@@ -1,14 +1,11 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1200&color=84BEF7&center=true&width=435&lines=hello!+I'm+Esra!!" alt="Typing SVG" /></a>
 </div>
-<br>
-<br>
 <div align="center" width="50">
 <img src="assets/kyAienM.gif" align="center" width="900px">
 <br>
 <br>
 
- 
 <pre>
  <div align="left">
 >> I'm a Computer Engineering graduate from Bahçeşehir University.
@@ -16,11 +13,11 @@
 >> Feel free to reach out through my socials if you share similar interests or have any exciting projects in mind. 
 >> <a href="mailto:aygn.esranur@gmail.com"><b>email</b></a>
 </div>
+ <img src="assets/rekall.gif" align="right" width="300px">
 </pre>
 <br>
  
-<div align="right" width="50">
-<img src="assets/rekall.gif" align="center" width="300px">
+
 <div align="left">
   <a href="https://www.linkedin.com/in/esranur-ayg%C3%BCn-22056418b/" target="_blank">
     <img src="assets/download.png" width="60" height="60" alt="linkedin logo"  />
@@ -29,7 +26,7 @@
     <img src="assets/imageshackerrank.png" width="60" height="60" alt="hackerrank logo"  />
   </a>
  <a href="https://leetcode.com/u/fukichime/" target="_blank">
-    <img src="assets/icons8-leetcode-16.png" width="60" height="60" alt="leetcode logo"  />
+    <img src="assets/images.png" width="60" height="60" alt="leetcode logo"  />
   </a>
 </div>
 
