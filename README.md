@@ -7,7 +7,7 @@
 <br>
 <pre align="center">
 <div align="center">
-<img src="assets/rekall.gif" align="right" width="300px">
+<img src="assets/rekall.gif" align="right" width="450px">
 </div>
 <div align="left">
 >> I'm a Computer Engineering graduate from Bahçeşehir University.
