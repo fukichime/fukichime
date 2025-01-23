@@ -1,16 +1,20 @@
+<div align="center" width="50">
+<img src="assets/kyAienM.gif" align="center" width="300px">
+<br>
+ 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1200&color=84BEF7&center=true&width=435&lines=hello!+I'm+Esra!!" alt="Typing SVG" /></a>
 </div>
 
-<img src="assets/org_20240301_030929.png" align="right" width="300px">
-<br>
 <pre>
-- I'm a Computer Engineering graduate from Bahçeşehir University.
-- Currently focused on learning .NET Web API and related technologies.
-- As for my hobbies, I'm an artist in both traditional and digital mediums.
+>> I'm a Computer Engineering graduate from Bahçeşehir University.
+>> Currently focused on expanding my skillset in software and related technologies.
+>> Feel free to reach out through my socials if you share similar interests or have any exciting projects in mind. 
+>> <a href="mailto:aygn.esranur@gmail.com"><b>email</b></a>
+
 </pre>
 <br>
- Feel free to reach out through my socials if you share similar interests or have any exciting projects in mind.
+ 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/esranur-ayg%C3%BCn-22056418b/" target="_blank">
