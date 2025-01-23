@@ -1,14 +1,14 @@
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1200&color=84BEF7&center=true&width=435&lines=hello!+I'm+Esra!!" alt="Typing SVG" /></a>
+</div>
+<br>
+<br>
 <div align="center" width="50">
 <img src="assets/kyAienM.gif" align="center" width="900px">
 <br>
 <br>
-<br>
+
  
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1200&color=84BEF7&center=true&width=435&lines=hello!+I'm+Esra!!" alt="Typing SVG" /></a>
-</div>
-
-
 <pre>
  <div align="left">
 >> I'm a Computer Engineering graduate from Bahçeşehir University.
@@ -19,13 +19,17 @@
 </pre>
 <br>
  
-
+<div align="right" width="50">
+<img src="assets/rekall.gif" align="center" width="300px">
 <div align="left">
   <a href="https://www.linkedin.com/in/esranur-ayg%C3%BCn-22056418b/" target="_blank">
-    <img src="assets/icons8-linkedin-50.png" width="52" height="40" alt="linkedin logo"  />
+    <img src="assets/download.png" width="60" height="60" alt="linkedin logo"  />
   </a>
-  <a href="aygn.esranur@gmail.com" target="_blank">
-    <img src="assets/icons8-email-50.png" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.hackerrank.com/profile/Katszura" target="_blank">
+    <img src="assets/imageshackerrank.png" width="60" height="60" alt="hackerrank logo"  />
+  </a>
+ <a href="https://leetcode.com/u/fukichime/" target="_blank">
+    <img src="assets/icons8-leetcode-16.png" width="60" height="60" alt="leetcode logo"  />
   </a>
 </div>
 
@@ -36,4 +40,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fukichime&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
+<div align="center" width="50">
+<img src="assets/kirby-dance-kirby-victory.giff" align="center" width="600px">
