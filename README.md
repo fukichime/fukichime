@@ -5,8 +5,11 @@
 <img src="assets/kyAienM.gif" align="center" width="900px">
 <br>
 <br>
-
-<pre>
+ <pre align="center">
+ <div align="center">
+  <img src="assets/rekall.gif" align="right" width="300px">
+  </div>
+<pre align="center">
  <div align="left">
 >> I'm a Computer Engineering graduate from Bahçeşehir University.
 >> Currently focused on expanding my skillset in software and related technologies.
@@ -14,9 +17,8 @@
    or have any exciting projects in mind. 
 >> <a href="mailto:aygn.esranur@gmail.com"><b>email</b></a>
  </div>
- <div>
-  <img src="assets/rekall.gif" align="right" width="300px">
-  </div>
+
+</pre>
 </pre>
 <br>
  
