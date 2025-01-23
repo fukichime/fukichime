@@ -18,11 +18,11 @@
 >> <a href="mailto:aygn.esranur@gmail.com"><b>email</b></a>
   <bre>
      <a href="https://www.linkedin.com/in/esranur-ayg%C3%BCn-22056418b/" target="_blank">
-    <img src="assets/download.png" width="60" height="60" alt="linkedin logo"  />
+    <img src="assets/download.png" width="40" height="40" alt="linkedin logo"  />
   </a>   <a href="https://www.hackerrank.com/profile/Katszura" target="_blank">
-    <img src="assets/imageshackerrank.png" width="60" height="60" alt="hackerrank logo"  />
+    <img src="assets/imageshackerrank.png" width="40" height="40" alt="hackerrank logo"  />
   </a>  <a href="https://leetcode.com/u/fukichime/" target="_blank">
-    <img src="assets/images.png" width="60" height="60" alt="leetcode logo"  />
+    <img src="assets/images.png" width="40" height="40" alt="leetcode logo"  />
   </a>
  </div>
 </pre>
