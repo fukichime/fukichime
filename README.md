@@ -7,6 +7,7 @@
 <br>
 <br>
 <pre align="center">
+<div>
 <div align="center">
 <img src="assets/rekall.gif" align="right" width="360px">
 </div>
@@ -20,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/esranur-ayg%C3%BCn-22056418b/" target="_blank"><img src="assets/download.png" width="40" height="40" alt="linkedin logo"  /></a>   <a href="https://www.hackerrank.com/profile/Katszura" target="_blank"><img src="assets/imageshackerrank.png" width="40" height="40" alt="hackerrank logo"  /></a>   <a href="https://leetcode.com/u/fukichime/" target="_blank"><img src="assets/images.png" width="40" height="40" alt="leetcode logo"  /></a>
 </p>
-</div>
+</div></div>
 </pre>
 <br>
 <pre align="center">
